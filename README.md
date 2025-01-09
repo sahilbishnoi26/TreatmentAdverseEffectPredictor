@@ -7,4 +7,4 @@
 - Identifying high-risk patients allowed the firm to develop targeted intervention strategies to proactively manage these patients both physically and mentally, reducing dropout rates. Recommendations included personalized follow-ups, patient education, medication management, integrated care teams, and leveraging technologies such as mobile health apps and telemedicine to improve treatment adherence and outcomes.
 
 
-# That’s the extent I can share on the internet due to the NDA. I cannot include data, results, reports, or presentations because of the confidentiality agreement.
+### That’s the extent I can share on the internet due to the NDA. I cannot include data, results, reports, or presentations because of the confidentiality agreement.
