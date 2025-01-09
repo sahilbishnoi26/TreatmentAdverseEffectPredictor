@@ -1,4 +1,4 @@
-# Predict patients who are likely to experience adverse effects from cancer treatment and drop out as a result using machine learning classifiers
+# Predicting patients likely to experience ADE from cancer treatment using machine learning 
 
 - Tackled the issue of a cancer treatment drug causing 25% of patients to discontinue therapy due to severe side effects. Analyzed six months of medical and insurance claims data prior to treatment, which included diagnosis codes and drug codes. Flagged entries where diagnosis codes or drug codes matched a predefined list of adverse effects associated with the treatment.
 
